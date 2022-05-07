@@ -1,5 +1,5 @@
 ## Cuestionario de Coercion
-#### Nombre: Nolberto Betancourt Perez.
+#### Nombre: Nolberto Betancourt Perez. 
 1. Qué retona la siguiente expresión?
 ```
 var sum = 3 + 2
@@ -91,3 +91,4 @@ sport === undefined
 > true
 
 
+<!-- Actividad Terminada. :) -->
