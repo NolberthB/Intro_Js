@@ -64,7 +64,6 @@ if (num1 == num2 && num1 == num3){
 
 // Ejercicio 6
 
-// Pendiente :c
 
     let name = prompt('What are u name?')
     let age = Number(prompt('How old are you?'))
